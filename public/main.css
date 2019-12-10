@@ -1,0 +1,14 @@
+body{
+
+  background-color: skyblue;
+  font-family: sans-serif;
+}
+
+.book-result{
+  color: yellow;
+  font-weight: 400;
+}
+h1{
+  text-align: center;
+  text-decoration-color: yellow;
+}
